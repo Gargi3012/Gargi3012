@@ -1,8 +1,17 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>Data analysis projects and improving my problem-solving skills through DSA.<br><br>👯 I’m looking to collaborate on:<br>Data analysis projects and real-world problem solving.<br><br>🤝 I’m looking for help with:<br>Advanced data analysis concepts and DSA.<br><br>💬 Ask me about:<br>Data analysis, projects, and coding practice.<br>
+# 🚀 AI Engineer | Data Engineering Enthusiast
 
+### Building intelligent applications with Python, FastAPI, LLMs & GenAI.
+
+🔭 Working on production-ready AI systems and scalable backend applications.
+
+🌱 Exploring Agentic AI, RAG, Vector Databases, MLOps, and Cloud.
+
+👯 Open to collaborating on AI, Backend, and Open Source projects.
+
+🎯 Passionate about building AI products that solve real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gargi452) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Gargisharma12332@gmail.com) 
