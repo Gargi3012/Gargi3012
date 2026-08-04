@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-# 🚀 AI Engineer | Data Engineering Enthusiast
+🚀 AI Engineer | Data Engineering Enthusiast
 
 ### Building intelligent applications with Python, FastAPI, LLMs & GenAI.
 
